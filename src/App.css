@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.App-logo {
+.App-avatar {
   height: 40vmin;
 }
 
@@ -18,5 +18,8 @@
 }
 
 .App-link {
-  color: #09d3ac;
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
 }
